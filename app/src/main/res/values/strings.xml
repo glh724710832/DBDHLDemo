@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DBDHLDemo</string>
+
+    <!-- 主界面底部menu-->
+    <string name="item1_string_home">主页</string>
+    <string name="item2_string_sx">视讯</string>
+    <string name="item3_string_xq">星球</string>
+    <string name="item4_string_dy">订阅</string>
+    <string name="item5_string_user_center">用户中心</string>
+
+
+</resources>
